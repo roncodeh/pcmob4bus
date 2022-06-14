@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pcmob4bus",
-    "slug": "pcmob4bus",
+    "name": "pcmob4-1-bus",
+    "slug": "pcmob4-1-bus",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
